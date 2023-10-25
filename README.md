@@ -1,1 +1,1 @@
-# Vanila Redux
+# Vanila Redux Practice
